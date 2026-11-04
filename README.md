@@ -4,6 +4,7 @@ bestanden van Fibonacci en tafelkaart opdracht Backend Development P1L2
 how to open and use the fibonacci and tafelkaart?
 1. in your file explorer you type "cmd" in the path.
 2. This opens a cmd.e.
-3. Type "php -S localhost:8000 Tafelkaart.php.
-4. This opens the php file on the browser.
-5. When filling in a number in the input field you press enter and it shows the amount you chose.
+3. Type "php -S localhost:8000 filename.
+4. This gives you a link, copy and paste it in your browser.
+5. Now you can see the .php file in your browser.
+6. When filling in a number in the input field you press enter and it shows the amount you chose.
