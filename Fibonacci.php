@@ -4,10 +4,10 @@ function genereerFibonacciStream($n) {
   $b = 2;
 
   for ($i = 0; $i < $n; $i++) {
-    // Geeft het huidige getal aan en pauzeert het
+    // Shows the current number and pauses.
     yield $a;
 
-    // Berekent het volgende getal van de volgende ronde
+    // Calculates the next number in the next round.
     $volgend = $a + $b;
     $a = $b;
     $b = $volgend;
